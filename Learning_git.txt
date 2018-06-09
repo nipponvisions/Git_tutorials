@@ -1,2 +1,2 @@
-Learning Git versin threethis is the file learning git.text.
+Learning Git version threeThis is the file learning git.text.
 it was the first file in my local repository
